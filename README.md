@@ -20,3 +20,9 @@ I hope sharing this documents could help you have a higher grades/gain a deeper 
 
 6.Randomlized_QuickSort
 
+7.BubbleSort
+
+8.CountingSort
+
+9.RadixSort
+
