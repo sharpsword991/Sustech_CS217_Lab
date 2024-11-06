@@ -8,6 +8,7 @@ During the teaching process of sorting algorithms, the professor taught us a lot
 
 I hope sharing this documents could help you have a higher grades/gain a deeper understanding of data structure and algorithm analysis.
 ## Sorting Algorithm
+### Comparison Sort
 1.InsertionSort
 
 2.SelectionSort
@@ -22,7 +23,30 @@ I hope sharing this documents could help you have a higher grades/gain a deeper 
 
 7.BubbleSort
 
-8.CountingSort
+### Other Sort
+1.CountingSort
 
-9.RadixSort
+2.RadixSort
+
+## Data Structure
+### Simple Data Structure
+1. Stack
+
+2. Queue
+
+3. Linked list
+
+4. Binary Search Tree
+
+5. Graph
+### Advanced Data Structure
+1. Balanced Trees
+
+2. Priority Queues
+
+
+
+
+
+
 
