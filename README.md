@@ -44,7 +44,10 @@ I hope sharing this documents could help you have a higher grades/gain a deeper 
 
 2. Priority Queues
 
+# Suggest Learning Materials
+1.An very good algorithm book **Hello-Algo**:
 
+  Click here: [Hello-Algo](https://www.hello-algo.com/)
 
 
 
