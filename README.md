@@ -44,8 +44,15 @@ I hope sharing this documents could help you have a higher grades/gain a deeper 
 
 2. Priority Queues
 
+## Other algorithm
+1. Dynamic programming
+
+2. Greedy Algorithm
+
+3. Primary Graph Algorithm: DFS and BFS.
+
 # Suggest Learning Materials
-1.An very good algorithm book **Hello-Algo**:
+1. A very good algorithm book **Hello-Algo**:
 
   Click here: [Hello-Algo](https://www.hello-algo.com/)
 
